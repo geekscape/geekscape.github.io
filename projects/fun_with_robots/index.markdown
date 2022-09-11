@@ -1,3 +1,9 @@
+---
+layout: page
+title: Fun with Robots - Free event
+permalink: /projects/fun_with_robots/index.html
+---
+
 ![](/projects/fun_with_robots/images/replicate_robot_car_dog_cyborg_party.jpg)
 
 **[Please click here to register your interest to help us organise the event](https://forms.gle/54xmY2BdUzKEKdob9)**

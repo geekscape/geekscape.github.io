@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fun with Robots
+title: Fun with Robots - Free event
 permalink: /projects/fun_with_robots/index.html
 ---
 
