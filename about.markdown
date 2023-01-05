@@ -1,8 +1,7 @@
 ---
-layout: page
-title: About
+layout: post
+title: About Geekscape
 permalink: /about/
 ---
 
-All about [hacking](https://hackmelbourne.org),
-A.I, AIoT, Machine Learning and Robots
+[Hacking](https://hackmelbourne.org) on A.I, AIoT, Machine Learning and Robots

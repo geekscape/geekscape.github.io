@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: post
 title: Fun with Robots
-permalink: /projects/fun_with_robots/index.html
+permalink: /events/fun_with_robots/index.html
 ---
 
-![](/projects/fun_with_robots/images/replicate_robot_car_dog_cyborg_party.jpg)
+![](/events/fun_with_robots/images/replicate_robot_car_dog_cyborg_party.jpg)
 
 **[Please click here to register your interest to help us organise the event](https://forms.gle/54xmY2BdUzKEKdob9)**
 
@@ -32,5 +32,5 @@ For more details, visit … [https://hackmelbourne.org](https://hackmelbourne.or
 Our workshop has a large range of equipment including laser cutters, 3D printers, CNC mill, welding, electronics and power tools.
 Tours available upon request.
 
-![](/projects/fun_with_robots/images/cchs_logo.png)
-![](/projects/fun_with_robots/images/qr_code.png)
+![](/events/fun_with_robots/images/cchs_logo.png)
+![](/events/fun_with_robots/images/qr_code.png)
