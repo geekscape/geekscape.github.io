@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Events
+title: Geekscape events
 permalink: /events/index.html
 ---
 
