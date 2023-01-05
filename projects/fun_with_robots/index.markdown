@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fun with Robots - Free event
+title: Fun with Robots
 permalink: /projects/fun_with_robots/index.html
 ---
 
@@ -8,7 +8,7 @@ permalink: /projects/fun_with_robots/index.html
 
 **[Please click here to register your interest to help us organise the event](https://forms.gle/54xmY2BdUzKEKdob9)**
 
-**Sunday 18th September 2022: 11 am to 3 pm**
+**Sunday 18th September 2022: 11 am to 3 pm - Free event**
 
 **Hawthorn Arts Centre: 360 Burwood Road, Hawthorn, 3122
 Room: Community Arts Space**
