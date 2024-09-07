@@ -13,8 +13,18 @@ navbar_entries:
 
 project_entries:
   - title: Aiko Services
-    url: projects/aiko_services
+  # url: projects/aiko_services <-- replace with useful content !
+    url: https://github.com/geekscape/aiko_services
     desc: Distributed embedded systems framework
+
+  - title: Aiko Engine MicroPython
+    url: projects/aiko_engine_mp <-- replace with useful content !
+    url: https://github.com/geekscape/aiko_engine_mp
+    desc: microPython embedded systems framework
+
+  - title: AI + ML + Robots
+    url: https://ai-ml-robots.github.io
+    desc: Technical community group
 
 old_project_entries:
   - title: Old Project 1

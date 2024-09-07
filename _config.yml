@@ -69,3 +69,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - z_notes.txt
+  - zz_new_york.txt
